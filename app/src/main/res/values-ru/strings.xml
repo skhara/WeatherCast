@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherCast_MVVM</string>
+    <string name="title_home">Прогноз</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_dashboard">Меню</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="title_account">Аккаунт</string>
+</resources>
